@@ -1,0 +1,25 @@
+#id1{
+    
+    
+    border: 2px solid #000;
+        width: 200px;
+        height: 200px;
+        
+        
+    }
+    input{
+        margin: 15px;
+    }
+    #mybox{
+        border: 2px solid #ad0b0b;
+        width: 200px;
+        height: 200px;
+        
+    }
+    #mybutton{
+        padding: 20px;
+        width: 200px;
+        margin-left: 9px;
+        margin-top: 20px;
+        border-radius: 20px;
+    }
